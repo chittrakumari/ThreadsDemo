@@ -16,8 +16,7 @@ public class main {
 
 
 
-        /* Step 3:Creating thread class object and passing the reference of runnable.This will
-        associate our run method with start method of thread class.
+        /* Step 3:Creating thread class object and passing the reference of runnable.This will associate our run method with start method of thread class.
         Thread is a library class in java.lang package
          */
         Thread t1=new Thread(r);
