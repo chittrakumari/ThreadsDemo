@@ -5,7 +5,11 @@ import threadsImplementation.MyThread2;
 
 public class main {
     public static void main(String[] args){
+        
 
+        //The following steps are creation of thread using Runnable interface.
+        
+        
         //Step 2:We are creating the reference of runnable.
         // we can also do it by creating a object of MyThread1 class i.e MyThread1 r=new MyThread1
         Runnable r=new MyThread1();
@@ -23,6 +27,7 @@ public class main {
 
 
 
+        
 
         //The following steps are creation of thread  by extending thread class.
 
