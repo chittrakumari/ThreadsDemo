@@ -1,5 +1,5 @@
 //Steps to create a thread using Thread class
-//Thread class has already implemented run method
+//Thread class has already implemented  runnable interface
 package threadsImplementation;
 import java.util.*;
 
